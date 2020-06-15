@@ -31,5 +31,3 @@ Upon completion, add your version of `main.ipynb` to git. Then commit git and pu
 [Housing Prices Data Description](your-code/data-description.txt)
 
 [Find out the percentage of missing values in each column in the given dataset](https://stackoverflow.com/questions/51070985/find-out-the-percentage-of-missing-values-in-each-column-in-the-given-dataset)
-
-[Histograms and Inverting Skewed Data](https://trainingdatascience.com/workshops/histograms-and-skewed-data/)
